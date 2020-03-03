@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import math
 
 def isprime(n):
@@ -71,10 +65,3 @@ limit = int(input('\nlimit = '))
 print('\n')
 
 print ('\nNumber of circular primes under {} is {}'.format(limit, len(cp(limit))))
-
-
-# In[ ]:
-
-
-
-
